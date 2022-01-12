@@ -1,8 +1,8 @@
 ## Holaaa, soy Eladio y soy Desarrollador Front-End!💻
-<div align="center">
-  <a href="https://github.com/eladioltb" >
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=eladioltb&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioltb&layout=compact&langs_count=4&theme=material-palenight"/>
+<div width="100%">
+  <a href="https://github.com/eladioltb" width="100%" style="display: inline_block">
+    <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api?username=eladioltb&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioltb&layout=compact&langs_count=4&theme=material-palenight"/>
 </div>
   
 <div style="display: inline_block"><br>
