@@ -25,9 +25,9 @@
 
 # Some extra info 🖥️
   
-<h2 align="center">
+<p align="center">
  ⬇️ Knowledge on this languages ⬇️
-</h2>
+</p>
   
 <div align="center" ><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 🟣
