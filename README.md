@@ -1,8 +1,8 @@
 # Hi, I'm Eladio 🤟🏼 👨🏻‍💻
 
-<h2>
+<p>
   I'm a Front-End Developer from Spain, lover of chopping code and video games! If you are interested in getting to know me more, you can contact me through my <a href="https://www.linkedin.com/in/eloriente/">Linkedin profile</a>.
-</h2>
+</p>
 
 <br>
 
