@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img align="center" width="60%" height="auto" src="https://raw.githubusercontent.com/eladioltb/eladioltb/master/assets/zenitsi_thunder.gif">
+  <img align="center" width="60%" height="auto" src="assets/zenitsu_thunder.gif">
 </div>
 
 <br>
