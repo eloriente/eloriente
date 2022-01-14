@@ -1,8 +1,8 @@
 # Hi, I'm Eladio 🤟🏼 👨🏻‍💻
 
-<p>
+<h3>
   I'm a Front-End Developer from Spain, lover of chopping code and video games! If you are interested in getting to know me more, you can contact me through my <a href="https://www.linkedin.com/in/eloriente/">Linkedin profile</a>.
-</p>
+</h3>
 
 <br>
 
@@ -25,9 +25,9 @@
 
 # Some extra info 🖥️
   
-<h5 align="center">
+<h3 align="center">
  ⬇️ Knowledge on this languages ⬇️
-</h5>
+</h3>
   
 <div align="center" ><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 🟣
