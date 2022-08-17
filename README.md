@@ -1,13 +1,12 @@
 # Hi, I'm Eladio 🤟🏼 👨🏻‍💻
 
-<h3>
-  I'm a Front-End Developer from Spain, lover of programming and video games! If you are interested in getting to know me more, you can contact me through my <a href="https://www.linkedin.com/in/eloriente/">Linkedin profile</a>.
-</h3>
-
-<br>
-
-<div align="center">
-  <img align="center" width="60%" height="auto" src="assets/zenitsu_thunder.gif">
+<div align="center" width="100%">
+  <div width="100%" style="display: flex; align-items: center;">
+    <h3 align="center" style="padding: 0 15px 0 15px">
+      I'm a Front-End Developer from Spain, lover of programming and video games! If you are interested in getting to know me more, you can contact me through my <a href="https://www.linkedin.com/in/eloriente/">Linkedin profile</a>.
+    </h3>
+    <img align="center" width="45%" height="auto" src="assets/zenitsu_thunder.gif">
+  </div>
 </div>
 
 <br>
