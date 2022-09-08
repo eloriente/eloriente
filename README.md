@@ -1,48 +1,49 @@
-# Hi, I'm Eladio 🤟🏼 👨🏻‍💻
+# Hi, I'm Eladio Loriente, a Developer 👨🏻‍💻 from Spain.
 
-<div align="center" width="100%">
-  <div width="100%" style="display: flex; align-items: center;">
-    <h3 align="center" style="padding: 0 15px 0 15px">
-      I'm a Front-End Developer from Spain, lover of programming and video games! If you are interested in getting to know me more, you can contact me through my <a href="https://www.linkedin.com/in/eloriente/">Linkedin profile</a>.
-    </h3>
-    <img align="center" width="45%" height="auto" src="assets/zenitsu_thunder.gif">
-  </div>
-</div>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eladioltb)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloriente/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eladioloriente@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:eladiolorientebrb@hotmail.com)
 
-<br>
+&nbsp;
 
-# My Stats 📈
-<br>
-<div width="100%">
-  <a href="https://github.com/eladioltb" width="100%" style="display: inline_block">
-    <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api?username=eladioltb&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioltb&layout=compact&langs_count=4&theme=material-palenight"/>
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working on [Inetum](https://www.inetum.com/);
+- 🌱 I’m currently learning [NextJS](https://nextjs.org/);
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I came to study a Law Career;
+
+**Languages and Tools:** 
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=eladioltb&show_icons=true&hide_border=true" />
   </a>
-</div>
 
-<br>
-
-# Some extra info 🖥️
-  
-<h3 align="center">
- ⬇️ Knowledge on this languages ⬇️
-</h3>
-  
-<div align="center" ><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 🟣
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">🟣
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">🟣
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">🟣
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">🟣
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">🟣
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">🟣
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-<br>
- 
-<div> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="7%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
+  <br />
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+  <br />
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+  <br />
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+</p>
