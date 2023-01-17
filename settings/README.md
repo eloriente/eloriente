@@ -5,7 +5,7 @@
 En el archivo [settings.jsonc](./settings.jsonc) encontrarás la configuración que uso yo en mi VSCode pero antes
 de que copies todo el contenido del archivo te explicaré un poco para que sirve cada cosa.
 
-> ⚠️ Importante está configuración se ha hecho teniendo como base el tema [One Dark Pro Mix](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme), además algunas configuraciones no están explicadas debido a que son algo más personas como el `workbench.iconTheme` refiriendose a la extension de iconos, `editor.tabSize` tamaño de tabulaciones en los archivos y `explorer.compactFolders` evitar la configuración predeterminada de carpetas compactas de Visual Studio.
+> ⚠️ Importante está configuración se ha hecho teniendo como base el tema [One Dark Pro Mix](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme), además algunas configuraciones no están explicadas debido a que son algo más personas como el `workbench.iconTheme` refiriendose a la extension de iconos, `editor.tabSize` tamaño de tabulaciones en los archivos y `explorer.compactFolders` evitar la configuración predeterminada de carpetas compactas de Visual Studio. Para instalar las variables de configuración deberás darle F1 y escribir "Open User Settings (JSON)".
 ## Variables de configuración
 
 **_Ligaduras y Saltos de linea_** :
