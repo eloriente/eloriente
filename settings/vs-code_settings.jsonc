@@ -1,0 +1,49 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.compactFolders": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.fontLigatures": true,
+  "workbench.colorCustomizations": {
+      "statusBar.noFolderBackground": "#5d2b54",
+      "statusBar.background": "#5d2b54",
+      "statusBar.foreground": "#c2c2c2",
+      "sideBar.foreground": "#e7e7e7",
+      "gitDecoration.ignoredResourceForeground": "#e7e7e7",
+      "breadcrumb.foreground": "#797979",
+      "gitDecoration.modifiedResourceForeground": "#e2ac39",
+      "gitDecoration.untrackedResourceForeground": "#74cc59",
+      "tab.activeForeground": "#f1f1f1",
+      "tab.inactiveForeground": "#868686"
+  },
+  "editor.tokenColorCustomizations": {
+      "strings": "#c2c2c2"
+  },
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.fontFamily": "JetBrainsMono NF, monospace",
+  "editor.fontFamily": "JetBrainsMono NF , monospace",
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "settingsSync.ignoredExtensions": [
+      "johnpapa.winteriscoming",
+      "dotjoshjohnson.xml",
+      "redhat.vscode-yaml",
+      "mskelton.one-dark-theme",
+      "ms-vscode.vscode-typescript-tslint-plugin",
+      "stylelint.vscode-stylelint",
+      "ansenhuang.vscode-view-readme",
+      "johnpapa.vscode-peacock",
+      "zhuangtongfa.material-theme",
+      "eg2.vscode-npm-script"
+  ],
+  "explorer.confirmDelete": false,
+  "editor.guides.bracketPairs": true,
+  "workbench.activityBar.visible": false,
+  "npm.keybindingsChangedWarningShown": true,
+  "git.confirmSync": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "workbench.editor.untitled.hint": "hidden"
+}
