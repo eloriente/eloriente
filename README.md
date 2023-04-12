@@ -24,7 +24,7 @@
     👨🏽‍💻 I’m currently working on <a href='https://www.inetum.com/'>Inetum</a>
   </p>
   <p>
-    🌱 I’m currently learning <a href='https://nextjs.org/'>NextJS</a>
+    🌱 I’m currently learning <a href='https://developer.apple.com/xcode/swiftui'>SwiftUI</a>
   </p>
   <p>
     💬 Ask me about anything, I am happy to help;
