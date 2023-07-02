@@ -24,7 +24,7 @@
     👨🏽‍💻 I’m currently working on <a href='https://www.inetum.com/'>Inetum</a>
   </p>
   <p>
-    🌱 I’m currently learning <a href='https://developer.apple.com/xcode/swiftui'>SwiftUI</a>, <a href='https://www.docker.com/'>Docker</a> and Software Architecture
+    🌱 I’m currently learning <a href='https://www.docker.com/'>Docker</a>, <a></a> and Software Architecture
   </p>
   <p>
     💬 Ask me about anything, I am happy to help;
