@@ -24,7 +24,7 @@
     👨🏽‍💻 I’m currently working on <a href='https://www.kairosds.com/es/index.html'>KairósDS</a>
   </p>
   <p>
-    🌱 I’m currently learning <a href='https://www.docker.com/'>Docker</a>, <a></a> and Software Architecture
+    🌱 I’m currently learning Software Architecture and Python
   </p>
   <p>
     💬 Ask me about anything, I am happy to help;
