@@ -19,10 +19,10 @@
   <br>
   <br>
   <p>
-    👨🏽‍💻 I’m currently working on <a href='https://www.kairosds.com/es/index.html'>KairósDS</a>
+    👨🏽‍💻 I’m currently working on <a href='https://www.mimacom.com/es'>Mimacom</a>
   </p>
   <p>
-    🌱 I’m currently learning { empty }
+    🌱 I’m currently learning Cloud Computing
   </p>
   <p>
     💬 Ask me about anything, I am happy to help;
