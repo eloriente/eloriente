@@ -4,7 +4,7 @@
 
 ## Hey, I'm Eladio 👋
 
-Full-stack software engineer from Spain. I spend most of my days on the frontend with Angular, React and TypeScript, but I'm just as comfortable going down the stack to design APIs, model data and wire everything together. I especially enjoy the part of the job that comes after *"it works"*: making code readable, easy to review and easy for the next person to pick up.
+Full-stack software engineer from Spain. I spend most of my days on the frontend with Angular, React and TypeScript, but I'm just as comfortable going down the stack to design APIs, model data and wire everything together. I especially enjoy the part of the job that comes after _"it works"_: making code readable, easy to review and easy for the next person to pick up.
 
 Before all this I started a Law degree. Turns out I liked building things more than arguing about them — though I still read the fine print.
 
@@ -29,11 +29,12 @@ Before all this I started a Law degree. Turns out I liked building things more t
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,mysql,mongodb,firebase,docker,git" alt="Node.js, Express, NestJS, Python, MySQL, MongoDB, Firebase, Docker, Git">
 </p>
 
-### 🕹️ Press start
+<br/>
 
-If you want to talk shop, team up on something or just say hi:
-
-<p>
-  <a href="https://www.linkedin.com/in/eloriente/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"></a>&nbsp;
-  <a href="mailto:eladioloriente@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"></a>
-</p>
+<div align="center">
+  If you want to talk shop, team up on something or just say hi:
+  <p>
+    <a href="https://www.linkedin.com/in/eloriente/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"></a>&nbsp;
+    <a href="mailto:eladioloriente@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"></a>
+  </p>
+</div>
