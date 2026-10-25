@@ -32,7 +32,7 @@ Before all this I started a Law degree. Turns out I liked building things more t
 <br/>
 
 <div align="center">
-  If you want to talk shop, team up on something or just say hi:
+  <p>If you want to talk shop, team up on something or just say hi:</p>
   <p>
     <a href="https://www.linkedin.com/in/eloriente/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"></a>&nbsp;
     <a href="mailto:eladioloriente@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"></a>
